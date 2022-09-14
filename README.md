@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
   I am a Full-Stack Developer from Lagos, Nigeria.
-- :telescope: I build static websites and dynamic web applications with Vue, Laravel and TailwindCSS.
+- :telescope: I build web applications with Vue, Laravel and TailwindCSS.
 
 - :seedling: Learning how to build Command Line applications with Go.
 
