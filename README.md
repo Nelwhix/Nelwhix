@@ -21,10 +21,7 @@
 
 ### :woman_technologist: About Me :
   I am a Full-Stack Developer from Lagos, Nigeria.
-- :telescope: I build web applications with Vue, Laravel and TailwindCSS.
-
-- :seedling: Learning how to build Web applications with Go.
-
+- :telescope: Building hobby projects and helping out open-source.
 - :zap: In my free time, I am either eating, swimming or on twitter.
 
 - :mailbox:How to reach me: <a href="mailto:nelsonisioma1@gmail.com">
