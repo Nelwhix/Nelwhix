@@ -20,7 +20,7 @@
 ---
 
 ### :woman_technologist: About Me :
-  I am a Full-Stack Developer from Lagos, Nigeria.
+  I am a Software Engineer from Lagos, Nigeria.
 - :telescope: Building hobby projects and helping out open-source.
 - :zap: In my free time, I am either eating, swimming or on twitter.
 
@@ -37,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/php/php-original.svg" title="Php" alt="php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" title="Vue" **alt="Vue" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
 </div>
 ---
 
