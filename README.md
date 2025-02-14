@@ -23,7 +23,7 @@
   I am a Software Engineer from Lagos, Nigeria.
 - :telescope: Building hobby projects and helping out open-source.
 - :zap: In my free time, I am either eating, swimming or on twitter.
-
+- Currently looking for a full-time software engineer role. If my contributions please, contact me!
 - :mailbox:How to reach me: <a href="mailto:nelsonisioma1@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
